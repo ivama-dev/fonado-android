@@ -12,7 +12,7 @@ All SDK dependencies and their licenses must be inventoried against the exact re
 
 The fonu backend and hosted telephony service are maintained separately; an active fonu account will be required to use those services.
 
-Other clients: [iOS](https://github.com/ivama-dev/fonu-ios), [macOS](https://github.com/ivama-dev/fonu-macos), [Windows](https://github.com/ivama-dev/fonu-windows).
+Other clients: [iOS](https://github.com/ivama-dev/fonado-ios), [macOS](https://github.com/ivama-dev/fonado-macos), [Windows](https://github.com/ivama-dev/fonado-windows).
 
 ## Brand name and technical compatibility
 
